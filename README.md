@@ -8,7 +8,7 @@
 
 - ⚡ Energia para aprender coisas novas nunca falta!
 
-- 🐍 Meu objetivo é criar grandes soluções com IA, por isso além de JS estou aprendendo python.
+- 🐍 Meu objetivo é criar automações e grandes soluções com IA, por isso além de JS estou aprendendo python.
 
 ##
 
