@@ -4,11 +4,11 @@
 
 - 💡 Criatividade está no meu DNA.. Mas que tal dar vida as ideias?
 
-- 🎮 Jogar é meu hobby, inclusive acho uma das areas mais FOD@S da programação.
+- 🎮 Jogos são meu hobby, inclusive acho uma das areas mais FOD@S na programação.
 
 - ⚡ Energia para aprender coisas novas nunca falta!
 
-- 🐍 Meu objetivo é criar automações e grandes soluções com IA, por isso além de JS estou aprendendo python.
+- 🐍 Meu objetivo é criar automações e grandes soluções com IA, por isso estou aprendendo python, e já olhando para o PyScript. 
 
 ##
 
