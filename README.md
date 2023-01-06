@@ -8,9 +8,9 @@
 
 - ⚡ Energia para aprender coisas novas nunca falta!
 
-- 🐍 Meu objetivo é criar automações e grandes soluções com IA, por isso escolhi python.
+- 🐍 As posibilidades que python oferece em diversas áreas me conquistou.
 
-- 💻 Estudando Django e de olho no Pyscript.
+- 💻 Seja em dados, backend, frontend ou jogos, eu gosto mesmo é de codar!
 
 ##
 
