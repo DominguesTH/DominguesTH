@@ -8,7 +8,7 @@
 
 - ⚡ Energia para aprender coisas novas nunca falta!
 
-- 🐍 As posibilidades que python oferece em diversas áreas me conquistou.
+- 🐍 As possibilidades que o python oferece em diversas áreas me conquistou.
 
 - 💻 Seja em dados, backend, frontend ou jogos, eu gosto mesmo é de codar!
 
